@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amendra Singh Chauhan</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | Microservices | REST APIs | AI Agents</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | kotlin|Microservices | REST APIs | AI Agents</h3>
 
 ---
 

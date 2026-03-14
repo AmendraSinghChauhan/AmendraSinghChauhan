@@ -28,6 +28,7 @@
 - Hibernate (JPA)
 - REST APIs
 - Microservices Architecture
+- Python
 
 ### Database
 - SQL

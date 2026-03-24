@@ -29,6 +29,13 @@
 - REST APIs
 - Microservices Architecture
 - Python
+## Front End
+ - Kotlin
+ - JetPack Compose
+ - React js
+ - JavaScript
+ - Html
+ - CSS
 
 ### Database
 - SQL
